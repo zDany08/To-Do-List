@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    --font-montserrat: "montserrat";
+    --color-gradient-dark: #0b3098;
+    --color-gradient-light: #481071;
+    --color-orange-red-dark: #ff663d;
+    --color-orange-red-light: #ff8563;
+}
+
+@font-face {
+    font-family: "montserrat";
+    src: url("./assets/fonts/Montserrat.ttf");
+}
